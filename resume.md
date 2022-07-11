@@ -23,7 +23,7 @@
  - 女，2000 年出生
  - 求职意向：前端工程师
  - 工作经验：0 年
- - 期望薪资：6k
+ - 期望薪资：8k
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
